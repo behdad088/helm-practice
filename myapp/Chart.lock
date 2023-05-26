@@ -1,0 +1,9 @@
+dependencies:
+- name: redis
+  repository: https://charts.bitnami.com/bitnami
+  version: 17.11.3
+- name: libpoloicy
+  repository: file://../libpolicy
+  version: 0.1.0
+digest: sha256:b5051476538929f04aabce8b689698ee79f3864385735ad63116d14e59805576
+generated: "2023-05-26T06:20:55.7600576+02:00"
